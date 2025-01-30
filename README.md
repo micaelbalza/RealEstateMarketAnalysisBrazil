@@ -74,7 +74,7 @@ Ative o ambiente:
 ```bash
 pip install -r requirements.txt
 ```
- Ou no próprio arquivo notebook (.ipynb). Existe uma célula responsavel por isso após abrir o notebook. 
+ Ou no próprio arquivo notebook (.ipynb) se já tiver o jupyter. Existe uma célula responsavel por isso após abrir o notebook. 
 
 
 ###  Executar o Jupyter Lab
@@ -92,7 +92,7 @@ Após isso, execute cada uma das células do notebook. Os dados vão ser process
 ##  Metodologia
 
 1️ **Coleta de Dados**  
-   - População por faixa etária (38-58 anos) via **IBGE (SIDRA)**  
+   - População por faixa etária (38-58 anos) via **IBGE**  
    - Número de empresas ativas via **Tabela 1757 do SIDRA**  
 
 2️ **Processamento dos Dados**  

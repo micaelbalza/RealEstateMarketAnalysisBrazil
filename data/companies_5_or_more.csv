@@ -1,0 +1,379 @@
+State,Year,Number of Companies
+Rondônia,2007,192
+Rondônia,2008,179
+Rondônia,2009,242
+Rondônia,2010,293
+Rondônia,2011,358
+Rondônia,2012,339
+Rondônia,2013,368
+Rondônia,2014,347
+Rondônia,2015,384
+Rondônia,2016,325
+Rondônia,2017,264
+Rondônia,2018,274
+Rondônia,2019,272
+Rondônia,2020,296
+Acre,2007,89
+Acre,2008,113
+Acre,2009,131
+Acre,2010,149
+Acre,2011,181
+Acre,2012,149
+Acre,2013,165
+Acre,2014,182
+Acre,2015,161
+Acre,2016,125
+Acre,2017,110
+Acre,2018,122
+Acre,2019,111
+Acre,2020,90
+Amazonas,2007,245
+Amazonas,2008,323
+Amazonas,2009,372
+Amazonas,2010,418
+Amazonas,2011,464
+Amazonas,2012,498
+Amazonas,2013,595
+Amazonas,2014,632
+Amazonas,2015,572
+Amazonas,2016,464
+Amazonas,2017,415
+Amazonas,2018,436
+Amazonas,2019,416
+Amazonas,2020,438
+Roraima,2007,69
+Roraima,2008,72
+Roraima,2009,86
+Roraima,2010,81
+Roraima,2011,78
+Roraima,2012,72
+Roraima,2013,76
+Roraima,2014,88
+Roraima,2015,99
+Roraima,2016,82
+Roraima,2017,76
+Roraima,2018,70
+Roraima,2019,82
+Roraima,2020,54
+Pará,2007,550
+Pará,2008,558
+Pará,2009,572
+Pará,2010,637
+Pará,2011,725
+Pará,2012,763
+Pará,2013,831
+Pará,2014,956
+Pará,2015,959
+Pará,2016,691
+Pará,2017,799
+Pará,2018,805
+Pará,2019,647
+Pará,2020,619
+Amapá,2007,60
+Amapá,2008,62
+Amapá,2009,96
+Amapá,2010,133
+Amapá,2011,110
+Amapá,2012,108
+Amapá,2013,131
+Amapá,2014,136
+Amapá,2015,147
+Amapá,2016,143
+Amapá,2017,119
+Amapá,2018,106
+Amapá,2019,30
+Amapá,2020,42
+Tocantins,2007,147
+Tocantins,2008,153
+Tocantins,2009,163
+Tocantins,2010,203
+Tocantins,2011,247
+Tocantins,2012,230
+Tocantins,2013,258
+Tocantins,2014,327
+Tocantins,2015,341
+Tocantins,2016,287
+Tocantins,2017,262
+Tocantins,2018,278
+Tocantins,2019,230
+Tocantins,2020,284
+Maranhão,2007,290
+Maranhão,2008,313
+Maranhão,2009,420
+Maranhão,2010,430
+Maranhão,2011,489
+Maranhão,2012,546
+Maranhão,2013,611
+Maranhão,2014,628
+Maranhão,2015,653
+Maranhão,2016,614
+Maranhão,2017,600
+Maranhão,2018,569
+Maranhão,2019,520
+Maranhão,2020,544
+Piauí,2007,205
+Piauí,2008,238
+Piauí,2009,307
+Piauí,2010,313
+Piauí,2011,350
+Piauí,2012,362
+Piauí,2013,392
+Piauí,2014,484
+Piauí,2015,467
+Piauí,2016,399
+Piauí,2017,381
+Piauí,2018,499
+Piauí,2019,491
+Piauí,2020,447
+Ceará,2007,560
+Ceará,2008,691
+Ceará,2009,807
+Ceará,2010,875
+Ceará,2011,1323
+Ceará,2012,1259
+Ceará,2013,1423
+Ceará,2014,1601
+Ceará,2015,1846
+Ceará,2016,1656
+Ceará,2017,1569
+Ceará,2018,1443
+Ceará,2019,1537
+Ceará,2020,1524
+Rio Grande do Norte,2007,427
+Rio Grande do Norte,2008,521
+Rio Grande do Norte,2009,642
+Rio Grande do Norte,2010,657
+Rio Grande do Norte,2011,774
+Rio Grande do Norte,2012,798
+Rio Grande do Norte,2013,867
+Rio Grande do Norte,2014,1037
+Rio Grande do Norte,2015,962
+Rio Grande do Norte,2016,914
+Rio Grande do Norte,2017,855
+Rio Grande do Norte,2018,764
+Rio Grande do Norte,2019,723
+Rio Grande do Norte,2020,795
+Paraíba,2007,379
+Paraíba,2008,402
+Paraíba,2009,521
+Paraíba,2010,629
+Paraíba,2011,893
+Paraíba,2012,952
+Paraíba,2013,1009
+Paraíba,2014,1172
+Paraíba,2015,1228
+Paraíba,2016,1126
+Paraíba,2017,1096
+Paraíba,2018,1025
+Paraíba,2019,914
+Paraíba,2020,958
+Pernambuco,2007,959
+Pernambuco,2008,909
+Pernambuco,2009,984
+Pernambuco,2010,1136
+Pernambuco,2011,1429
+Pernambuco,2012,1397
+Pernambuco,2013,1609
+Pernambuco,2014,1614
+Pernambuco,2015,1556
+Pernambuco,2016,1820
+Pernambuco,2017,1604
+Pernambuco,2018,1345
+Pernambuco,2019,1502
+Pernambuco,2020,1468
+Alagoas,2007,258
+Alagoas,2008,265
+Alagoas,2009,267
+Alagoas,2010,297
+Alagoas,2011,346
+Alagoas,2012,390
+Alagoas,2013,479
+Alagoas,2014,442
+Alagoas,2015,509
+Alagoas,2016,432
+Alagoas,2017,409
+Alagoas,2018,422
+Alagoas,2019,291
+Alagoas,2020,364
+Sergipe,2007,241
+Sergipe,2008,254
+Sergipe,2009,224
+Sergipe,2010,265
+Sergipe,2011,374
+Sergipe,2012,303
+Sergipe,2013,385
+Sergipe,2014,422
+Sergipe,2015,467
+Sergipe,2016,452
+Sergipe,2017,359
+Sergipe,2018,377
+Sergipe,2019,293
+Sergipe,2020,349
+Bahia,2007,1188
+Bahia,2008,1209
+Bahia,2009,1325
+Bahia,2010,1583
+Bahia,2011,2100
+Bahia,2012,2074
+Bahia,2013,2471
+Bahia,2014,2709
+Bahia,2015,2824
+Bahia,2016,2313
+Bahia,2017,2150
+Bahia,2018,2251
+Bahia,2019,2010
+Bahia,2020,2174
+Minas Gerais,2007,3446
+Minas Gerais,2008,3639
+Minas Gerais,2009,4270
+Minas Gerais,2010,5016
+Minas Gerais,2011,6416
+Minas Gerais,2012,6965
+Minas Gerais,2013,6419
+Minas Gerais,2014,7432
+Minas Gerais,2015,7655
+Minas Gerais,2016,7058
+Minas Gerais,2017,6549
+Minas Gerais,2018,6324
+Minas Gerais,2019,6843
+Minas Gerais,2020,7193
+Espírito Santo,2007,788
+Espírito Santo,2008,886
+Espírito Santo,2009,1042
+Espírito Santo,2010,1161
+Espírito Santo,2011,1193
+Espírito Santo,2012,1457
+Espírito Santo,2013,1394
+Espírito Santo,2014,1431
+Espírito Santo,2015,1556
+Espírito Santo,2016,1147
+Espírito Santo,2017,1081
+Espírito Santo,2018,976
+Espírito Santo,2019,1142
+Espírito Santo,2020,1153
+Rio de Janeiro,2007,2546
+Rio de Janeiro,2008,2475
+Rio de Janeiro,2009,2734
+Rio de Janeiro,2010,3111
+Rio de Janeiro,2011,3636
+Rio de Janeiro,2012,3942
+Rio de Janeiro,2013,4433
+Rio de Janeiro,2014,4837
+Rio de Janeiro,2015,4728
+Rio de Janeiro,2016,4071
+Rio de Janeiro,2017,3516
+Rio de Janeiro,2018,3324
+Rio de Janeiro,2019,3457
+Rio de Janeiro,2020,3589
+São Paulo,2007,8289
+São Paulo,2008,9004
+São Paulo,2009,10443
+São Paulo,2010,11813
+São Paulo,2011,13832
+São Paulo,2012,15054
+São Paulo,2013,16341
+São Paulo,2014,16732
+São Paulo,2015,16165
+São Paulo,2016,15057
+São Paulo,2017,14421
+São Paulo,2018,15623
+São Paulo,2019,15288
+São Paulo,2020,15793
+Paraná,2007,2123
+Paraná,2008,2265
+Paraná,2009,2694
+Paraná,2010,3418
+Paraná,2011,4033
+Paraná,2012,4693
+Paraná,2013,4818
+Paraná,2014,5654
+Paraná,2015,5532
+Paraná,2016,4702
+Paraná,2017,4637
+Paraná,2018,5013
+Paraná,2019,4896
+Paraná,2020,5432
+Santa Catarina,2007,1878
+Santa Catarina,2008,1980
+Santa Catarina,2009,2202
+Santa Catarina,2010,2953
+Santa Catarina,2011,3298
+Santa Catarina,2012,4056
+Santa Catarina,2013,4283
+Santa Catarina,2014,4753
+Santa Catarina,2015,4435
+Santa Catarina,2016,4285
+Santa Catarina,2017,4209
+Santa Catarina,2018,4110
+Santa Catarina,2019,4445
+Santa Catarina,2020,4757
+Rio Grande do Sul,2007,2567
+Rio Grande do Sul,2008,2824
+Rio Grande do Sul,2009,3195
+Rio Grande do Sul,2010,3523
+Rio Grande do Sul,2011,4346
+Rio Grande do Sul,2012,5079
+Rio Grande do Sul,2013,5210
+Rio Grande do Sul,2014,5752
+Rio Grande do Sul,2015,5820
+Rio Grande do Sul,2016,5494
+Rio Grande do Sul,2017,4668
+Rio Grande do Sul,2018,5086
+Rio Grande do Sul,2019,5259
+Rio Grande do Sul,2020,5108
+Mato Grosso do Sul,2007,355
+Mato Grosso do Sul,2008,413
+Mato Grosso do Sul,2009,450
+Mato Grosso do Sul,2010,501
+Mato Grosso do Sul,2011,637
+Mato Grosso do Sul,2012,669
+Mato Grosso do Sul,2013,720
+Mato Grosso do Sul,2014,791
+Mato Grosso do Sul,2015,778
+Mato Grosso do Sul,2016,716
+Mato Grosso do Sul,2017,647
+Mato Grosso do Sul,2018,675
+Mato Grosso do Sul,2019,620
+Mato Grosso do Sul,2020,690
+Mato Grosso,2007,364
+Mato Grosso,2008,476
+Mato Grosso,2009,542
+Mato Grosso,2010,688
+Mato Grosso,2011,848
+Mato Grosso,2012,956
+Mato Grosso,2013,1032
+Mato Grosso,2014,1164
+Mato Grosso,2015,1180
+Mato Grosso,2016,1122
+Mato Grosso,2017,965
+Mato Grosso,2018,1024
+Mato Grosso,2019,930
+Mato Grosso,2020,1182
+Goiás,2007,786
+Goiás,2008,879
+Goiás,2009,1030
+Goiás,2010,1319
+Goiás,2011,1753
+Goiás,2012,1743
+Goiás,2013,2020
+Goiás,2014,2052
+Goiás,2015,2040
+Goiás,2016,1779
+Goiás,2017,1828
+Goiás,2018,1804
+Goiás,2019,1738
+Goiás,2020,1964
+Distrito Federal,2007,514
+Distrito Federal,2008,611
+Distrito Federal,2009,792
+Distrito Federal,2010,952
+Distrito Federal,2011,1127
+Distrito Federal,2012,1227
+Distrito Federal,2013,1396
+Distrito Federal,2014,1313
+Distrito Federal,2015,1318
+Distrito Federal,2016,1017
+Distrito Federal,2017,825
+Distrito Federal,2018,879
+Distrito Federal,2019,879
+Distrito Federal,2020,898
