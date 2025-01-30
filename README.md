@@ -84,6 +84,9 @@ jupyter-lab
 
 Abra o arquivo `notebook.ipynb` e selecione o kernel **Python (env)**.
 
+
+Após isso, execute cada uma das células do notebook. Os dados vão ser processados, os gráficos serão gerados, à medida que as células executarem.
+
 ---
 
 ##  Metodologia
@@ -118,7 +121,7 @@ Os estados foram segmentados em três categorias:
 | 1       | Estável       | Mercado equilibrado entre empresas e população. |
 | 0       | Saturado      |  Alta concorrência e menor margem para novos negócios. |
 
-🔗 **[📄 Clique aqui para acessar o relatório completo](relatorio.pdf)**
+🔗 **[📄 Clique aqui para acessar o relatório completo](Document.pdf)**
 
 ---
 
